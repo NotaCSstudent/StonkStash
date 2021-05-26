@@ -4,7 +4,6 @@ from . import obtainBalanceSheet as obs
 from . import stonkHistoricalData as shd
 from . import indexInfo as ii
 import time
-import ciso8601
 
 app = Flask(__name__)
 

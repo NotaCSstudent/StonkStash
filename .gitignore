@@ -18,7 +18,9 @@
 .env.test.local
 .env.production.local
 stonks_frontend/.eslintcache
-
+*/.vscode
+*/__pycache__/*
+.eslintcache
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
