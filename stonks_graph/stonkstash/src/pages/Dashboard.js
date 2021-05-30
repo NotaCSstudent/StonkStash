@@ -227,7 +227,7 @@ class Dashboard extends Component {
             bar_state: "market", // used to choose which side menu panel to display, based upon status of BottomBar and Sidebar itself(?)
         }
 
-            const stockinfo = getStockInfo('AAPL', '1', "2021-03-16", 'w');
+            const stockinfo = getStockInfo('AAPL', 'w');
             console.log(stockinfo);
         
     
